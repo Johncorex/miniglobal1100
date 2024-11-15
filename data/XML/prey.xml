@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prey>
+	<configs>
+		<config timeToFreeReroll="1200" /> <!-- minutes -->
+		<config preyDuration="7200" /> <!-- seconds -->
+		<config rerollPricePerLevel	="50" />
+	</configs>
+	<bonuses>
+		<bonus type="damageReduction" initialValue="12" step="2" />
+		<bonus type="damageBoost" initialValue="7" step="2" />
+		<bonus type="bonusExperience" initialValue="13" step="3" />
+		<bonus type="improvedLoot" initialValue="13" step="3" />
+	</bonuses>
+	<monsters>
+	<monster name="Dragon Lord Hatchling"/>
+	<monster name="Juggernaut"/>
+	<monster name="Haunted Treeling"/>
+	<monster name="Nightstalker"/>
+	<monster name="Vampire Bride"/>
+	<monster name="Werewolf"/>
+	<monster name="Mutated Bat"/>
+	<monster name="Earth Elemental"/>
+	<monster name="Spirit Of Fire"/>
+	<monster name="Lizard Zaogun"/>
+	<monster name="Lizard Chosen"/>
+	<monster name="Lizard Dragon Priest"/>
+	<monster name="Lizard High Guard"/>
+	<monster name="Amazon"/>
+	<monster name="Rotworm"/>
+	<monster name="Valkyrie"/>
+	<monster name="Dragon"/>
+	</monsters>
+</prey>

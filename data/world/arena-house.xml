@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Thais East 01" houseid="1" entryx="4219" entryy="4054" entryz="7" rent="2000" townid="1" size="16" />
+	<house name="Thais East 02" houseid="2" entryx="4219" entryy="4049" entryz="7" rent="2000" townid="1" size="63" />
+	<house name="Thais East 03" houseid="3" entryx="4219" entryy="4044" entryz="7" rent="2000" townid="1" size="16" />
+	<house name="Thais East 04" houseid="4" entryx="4219" entryy="4054" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Thais East 05" houseid="5" entryx="4219" entryy="4049" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Thais East 06" houseid="6" entryx="4219" entryy="4044" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Thais Greathouse 01" houseid="3450" entryx="4144" entryy="4059" entryz="7" rent="0" townid="1" size="166" />
+	<house name="Thais Center 02" houseid="3451" entryx="4132" entryy="4056" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Thais Center 03" houseid="3452" entryx="4132" entryy="4068" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Thais apartment 01" houseid="3453" entryx="4129" entryy="4078" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 02" houseid="3454" entryx="4129" entryy="4083" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 03" houseid="3455" entryx="4130" entryy="4090" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 04" houseid="3456" entryx="4129" entryy="4078" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 05" houseid="3457" entryx="4129" entryy="4083" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 06" houseid="3458" entryx="4130" entryy="4090" entryz="6" rent="0" townid="1" size="14" />
+	<house name="Thais apartment 07" houseid="3459" entryx="4130" entryy="4095" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 08" houseid="3460" entryx="4129" entryy="4078" entryz="5" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 09" houseid="3461" entryx="4129" entryy="4083" entryz="5" rent="0" townid="1" size="10" />
+	<house name="Thais apartment 10" houseid="3462" entryx="4130" entryy="4090" entryz="5" rent="0" townid="1" size="14" />
+	<house name="Thais apartment 11" houseid="3463" entryx="4130" entryy="4095" entryz="5" rent="0" townid="1" size="10" />
+	<house name="Thais West 01" houseid="3464" entryx="4110" entryy="4091" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais West 02" houseid="3465" entryx="4110" entryy="4086" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais West 03" houseid="3466" entryx="4105" entryy="4089" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Thais West 04" houseid="3467" entryx="4113" entryy="4081" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais West 05" houseid="3468" entryx="4109" entryy="4081" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais West 06" houseid="3469" entryx="4105" entryy="4081" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais West 07" houseid="3470" entryx="4110" entryy="4089" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais West 08" houseid="3471" entryx="4110" entryy="4084" entryz="6" rent="0" townid="1" size="13" />
+	<house name="Thais West 09" houseid="3472" entryx="4110" entryy="4080" entryz="6" rent="0" townid="1" size="13" />
+	<house name="Thais West 10" houseid="3473" entryx="4108" entryy="4080" entryz="6" rent="0" townid="1" size="4" />
+	<house name="Thais West 11" houseid="3474" entryx="4105" entryy="4080" entryz="6" rent="0" townid="1" size="4" />
+	<house name="Thais West 12" houseid="3475" entryx="4099" entryy="4090" entryz="6" rent="0" townid="1" size="14" />
+	<house name="Thais West 13" houseid="3476" entryx="4096" entryy="4100" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Thais West 14" houseid="3477" entryx="4080" entryy="4102" entryz="7" rent="0" townid="1" size="42" />
+	<house name="Thais West 15" houseid="3478" entryx="4096" entryy="4097" entryz="6" rent="0" townid="1" size="12" />
+	<house name="Thais West 16" houseid="3479" entryx="4096" entryy="4095" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Thais riverdale 01" houseid="3480" entryx="4122" entryy="4118" entryz="7" rent="0" townid="1" size="148" />
+	<house name="Thais riverdale 02" houseid="3481" entryx="4128" entryy="4103" entryz="7" rent="0" townid="1" size="30" />
+	<house name="Thais riverdale 03" houseid="3482" entryx="4129" entryy="4101" entryz="6" rent="0" townid="1" size="64" />
+	<house name="Thais North 01" houseid="3483" entryx="4194" entryy="4027" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Thais North 02" houseid="3484" entryx="4200" entryy="4027" entryz="7" rent="0" townid="1" size="35" />
+	<house name="Thais North 03" houseid="3485" entryx="4218" entryy="4024" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Thais North 04" houseid="3486" entryx="4218" entryy="4035" entryz="7" rent="0" townid="1" size="21" />
+	<house name="Thais North 05" houseid="3487" entryx="4206" entryy="4030" entryz="7" rent="0" townid="1" size="21" />
+	<house name="Thais North 06" houseid="3488" entryx="4209" entryy="4035" entryz="6" rent="0" townid="1" size="21" />
+	<house name="Thais North 07" houseid="3489" entryx="4218" entryy="4035" entryz="6" rent="0" townid="1" size="21" />
+	<house name="Thais North 08" houseid="3490" entryx="4204" entryy="4022" entryz="6" rent="0" townid="1" size="34" />
+	<house name="Thais South 01" houseid="3491" entryx="4144" entryy="4098" entryz="7" rent="0" townid="1" size="58" />
+	<house name="Thais South 02" houseid="3492" entryx="4156" entryy="4098" entryz="7" rent="0" townid="1" size="58" />
+	<house name="Thais South 03" houseid="3493" entryx="4152" entryy="4108" entryz="7" rent="0" townid="1" size="58" />
+	<house name="Thais South 04" houseid="3494" entryx="4164" entryy="4108" entryz="7" rent="0" townid="1" size="58" />
+	<house name="Thais South 05" houseid="3495" entryx="4194" entryy="4102" entryz="7" rent="0" townid="1" size="122" />
+	<house name="Thais South 06" houseid="3496" entryx="4208" entryy="4102" entryz="7" rent="0" townid="1" size="25" />
+	<house name="Thais South 07" houseid="3497" entryx="4215" entryy="4102" entryz="7" rent="0" townid="1" size="44" />
+	<house name="Thais Guildhouse" houseid="3498" entryx="4197" entryy="4100" entryz="7" rent="0" townid="1" size="159" />
+	<house name="Thais East 07" houseid="3499" entryx="4212" entryy="4066" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais East 08" houseid="3500" entryx="4212" entryy="4069" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais East 09" houseid="3501" entryx="4212" entryy="4072" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais East 10" houseid="3502" entryx="4212" entryy="4066" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais East 11" houseid="3503" entryx="4212" entryy="4069" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais East 12" houseid="3504" entryx="4212" entryy="4072" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais East Wonderfall 01" houseid="3505" entryx="4215" entryy="4083" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais East Wonderfall 02" houseid="3506" entryx="4209" entryy="4083" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Thais East Wonderfall 03" houseid="3507" entryx="4215" entryy="4084" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Thais East Wonderfall 04" houseid="3508" entryx="4209" entryy="4084" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Thais East Wonderfall 05" houseid="3509" entryx="4215" entryy="4093" entryz="7" rent="0" townid="1" size="13" />
+	<house name="Thais East Wonderfall 06" houseid="3510" entryx="4215" entryy="4083" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais East Wonderfall 07" houseid="3511" entryx="4209" entryy="4083" entryz="6" rent="0" townid="1" size="12" />
+	<house name="Thais East Wonderfall 08" houseid="3512" entryx="4215" entryy="4084" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Thais East Wonderfall 09" houseid="3513" entryx="4209" entryy="4084" entryz="6" rent="0" townid="1" size="12" />
+	<house name="Enigma Real 01" houseid="3514" entryx="4274" entryy="4092" entryz="4" rent="0" townid="2" size="15" />
+	<house name="Enigma Real 02" houseid="3515" entryx="4286" entryy="4092" entryz="4" rent="0" townid="2" size="15" />
+	<house name="Enigma North 01" houseid="3516" entryx="4241" entryy="4081" entryz="7" rent="0" townid="2" size="38" />
+	<house name="Enigma North 02" houseid="3517" entryx="4268" entryy="4065" entryz="7" rent="0" townid="2" size="46" />
+	<house name="Enigma North 03" houseid="3518" entryx="4275" entryy="4065" entryz="7" rent="0" townid="2" size="38" />
+	<house name="Enigma North 04" houseid="3519" entryx="4291" entryy="4061" entryz="7" rent="0" townid="2" size="86" />
+	<house name="Enigma North 05" houseid="3520" entryx="4310" entryy="4071" entryz="6" rent="0" townid="2" size="38" />
+	<house name="Enigma East 01" houseid="3521" entryx="4330" entryy="4078" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Enigma South 01" houseid="3522" entryx="4291" entryy="4120" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Enigma South 02" houseid="3523" entryx="4302" entryy="4120" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Enigma South 03" houseid="3524" entryx="4309" entryy="4119" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Enigma Central 01" houseid="3525" entryx="4243" entryy="4118" entryz="6" rent="0" townid="2" size="26" />
+	<house name="Enigma Central 02" houseid="3526" entryx="4270" entryy="4109" entryz="6" rent="0" townid="2" size="24" />
+	<house name="Enigma Central 03" houseid="3527" entryx="4320" entryy="4120" entryz="6" rent="0" townid="2" size="26" />
+	<house name="Enigma Central 04" houseid="3528" entryx="4245" entryy="4109" entryz="5" rent="0" townid="2" size="18" />
+	<house name="Enigma Central 05" houseid="3529" entryx="4296" entryy="4102" entryz="5" rent="0" townid="2" size="21" />
+	<house name="Thais Residencial 01" houseid="3530" entryx="4173" entryy="4102" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Thais Residencial 02" houseid="3531" entryx="4178" entryy="4102" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Thais Residencial 03" houseid="3532" entryx="4182" entryy="4107" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Thais Residencial 04" houseid="3533" entryx="4182" entryy="4114" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Thais Residencial 05" houseid="3534" entryx="4182" entryy="4114" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Thais Residencial 06" houseid="3535" entryx="4178" entryy="4114" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Thais Residencial 07" houseid="3536" entryx="4173" entryy="4114" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Thais Residencial 08" houseid="3537" entryx="4170" entryy="4110" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Porto Village 02" houseid="3538" entryx="4170" entryy="4251" entryz="7" rent="0" townid="3" size="53" />
+	<house name="Porto West 02" houseid="3539" entryx="4112" entryy="4234" entryz="7" rent="0" townid="3" size="30" />
+	<house name="Porto South 01" houseid="3540" entryx="4110" entryy="4256" entryz="7" rent="0" townid="3" size="42" />
+	<house name="Porto South 02" houseid="3541" entryx="4118" entryy="4256" entryz="7" rent="0" townid="3" size="42" />
+	<house name="Porto Center 01" houseid="3542" entryx="4148" entryy="4241" entryz="7" rent="0" townid="3" size="27" />
+	<house name="Porto Village 01" houseid="3543" entryx="4162" entryy="4255" entryz="7" rent="0" townid="3" size="23" />
+	<house name="Porto Village 03" houseid="3544" entryx="4179" entryy="4255" entryz="7" rent="0" townid="3" size="44" />
+	<house name="Porto Village 04" houseid="3545" entryx="4191" entryy="4255" entryz="7" rent="0" townid="3" size="45" />
+	<house name="Porto Village 05" houseid="3546" entryx="4197" entryy="4267" entryz="7" rent="0" townid="3" size="60" />
+	<house name="Porto Village 06" houseid="3547" entryx="4188" entryy="4273" entryz="7" rent="0" townid="3" size="23" />
+	<house name="Porto Village 07" houseid="3548" entryx="4170" entryy="4268" entryz="7" rent="0" townid="3" size="29" />
+	<house name="Porto Village 08" houseid="3549" entryx="4170" entryy="4274" entryz="7" rent="0" townid="3" size="23" />
+	<house name="Guildhouse Porto Real 01" houseid="3550" entryx="4179" entryy="4278" entryz="7" rent="0" townid="3" size="255" />
+	<house name="Edron West 01" houseid="3551" entryx="3793" entryy="3796" entryz="7" rent="0" townid="21" size="26" />
+	<house name="Edron West 02" houseid="3552" entryx="3789" entryy="3795" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Edron West 03" houseid="3553" entryx="3794" entryy="3789" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Edron West 04" houseid="3554" entryx="3787" entryy="3782" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Edron West 05" houseid="3555" entryx="3806" entryy="3833" entryz="7" rent="0" townid="21" size="53" />
+	<house name="Edron Central 01" houseid="3556" entryx="3844" entryy="3792" entryz="7" rent="0" townid="21" size="31" />
+	<house name="Edron Central 02" houseid="3557" entryx="3844" entryy="3799" entryz="7" rent="0" townid="21" size="31" />
+	<house name="Edron Central 03" houseid="3558" entryx="3844" entryy="3806" entryz="7" rent="0" townid="21" size="31" />
+	<house name="Edron Central 04" houseid="3559" entryx="3809" entryy="3815" entryz="5" rent="0" townid="21" size="10" />
+	<house name="Edron Central 05" houseid="3560" entryx="3809" entryy="3810" entryz="5" rent="0" townid="21" size="14" />
+	<house name="Edron Central 06" houseid="3561" entryx="3809" entryy="3805" entryz="5" rent="0" townid="21" size="14" />
+	<house name="Edron Central 07" houseid="3562" entryx="3809" entryy="3800" entryz="5" rent="0" townid="21" size="16" />
+	<house name="Edron Central 08" houseid="3563" entryx="3808" entryy="3810" entryz="5" rent="0" townid="21" size="10" />
+	<house name="Edron Central 09" houseid="3564" entryx="3808" entryy="3805" entryz="5" rent="0" townid="21" size="10" />
+	<house name="Edron Central 10" houseid="3565" entryx="3808" entryy="3800" entryz="5" rent="0" townid="21" size="13" />
+	<house name="Edron Midfall 01" houseid="3566" entryx="3842" entryy="3839" entryz="7" rent="0" townid="21" size="66" />
+	<house name="Edron Midfall 02" houseid="3567" entryx="3849" entryy="3839" entryz="7" rent="0" townid="21" size="73" />
+	<house name="Edron North 01" houseid="3568" entryx="3877" entryy="3829" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Edron North 02" houseid="3569" entryx="3876" entryy="3819" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Edron North 03" houseid="3570" entryx="3864" entryy="3815" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Edron North 04" houseid="3571" entryx="3867" entryy="3808" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Edron North 05" houseid="3572" entryx="3875" entryy="3819" entryz="6" rent="0" townid="21" size="26" />
+	<house name="Edron North 06" houseid="3573" entryx="3870" entryy="3819" entryz="6" rent="0" townid="21" size="26" />
+	<house name="Edron North 07" houseid="3574" entryx="3876" entryy="3809" entryz="6" rent="0" townid="21" size="32" />
+	<house name="Edron Panther 01" houseid="3575" entryx="3840" entryy="3846" entryz="7" rent="0" townid="21" size="79" />
+	<house name="Edron Panther 02" houseid="3576" entryx="3847" entryy="3846" entryz="7" rent="0" townid="21" size="79" />
+	<house name="Edron Panther 03" houseid="3577" entryx="3854" entryy="3846" entryz="7" rent="0" townid="21" size="79" />
+	<house name="Edron Panther 04" houseid="3578" entryx="3839" entryy="3862" entryz="7" rent="0" townid="21" size="84" />
+	<house name="Edron Panther 05" houseid="3579" entryx="3846" entryy="3862" entryz="7" rent="0" townid="21" size="84" />
+	<house name="Edron Panther 06" houseid="3580" entryx="3853" entryy="3862" entryz="7" rent="0" townid="21" size="84" />
+	<house name="Edron Guildhouse 01" houseid="3581" entryx="3860" entryy="3872" entryz="7" rent="0" townid="21" size="339" />
+	<house name="Edron Guildhouse 02" houseid="3582" entryx="3865" entryy="3874" entryz="7" rent="0" townid="21" size="341" />
+	<house name="Edron Guildhouse 03" houseid="3583" entryx="3869" entryy="3887" entryz="7" rent="0" townid="21" size="294" />
+	<house name="Edron South 01" houseid="3584" entryx="3884" entryy="3888" entryz="7" rent="0" townid="21" size="80" />
+	<house name="Edron South 02" houseid="3585" entryx="3830" entryy="3862" entryz="7" rent="0" townid="21" size="16" />
+	<house name="Edron South 03" houseid="3586" entryx="3830" entryy="3862" entryz="6" rent="0" townid="21" size="16" />
+	<house name="Edron Wonderfall 01" houseid="3587" entryx="3867" entryy="3857" entryz="7" rent="0" townid="21" size="26" />
+	<house name="Edron Wonderfall 02" houseid="3588" entryx="3867" entryy="3852" entryz="7" rent="0" townid="21" size="26" />
+	<house name="Edron Wonderfall 03" houseid="3589" entryx="3864" entryy="3839" entryz="7" rent="0" townid="21" size="23" />
+	<house name="Edron Wonderfall 04" houseid="3590" entryx="3867" entryy="3841" entryz="6" rent="0" townid="21" size="23" />
+	<house name="Edron Wonderfall 05" houseid="3591" entryx="3867" entryy="3848" entryz="6" rent="0" townid="21" size="25" />
+	<house name="Edron Wonderfall 06" houseid="3592" entryx="3867" entryy="3855" entryz="6" rent="0" townid="21" size="22" />
+	<house name="Edron Prince 01" houseid="3593" entryx="3870" entryy="3845" entryz="7" rent="0" townid="21" size="117" />
+	<house name="Edron Prince 02" houseid="3594" entryx="3870" entryy="3852" entryz="7" rent="0" townid="21" size="117" />
+	<house name="Edron Prince 03" houseid="3595" entryx="3870" entryy="3859" entryz="7" rent="0" townid="21" size="130" />
+	<house name="Port Hope North 01" houseid="3596" entryx="4030" entryy="3616" entryz="7" rent="0" townid="18" size="113" />
+	<house name="Port Hope North 02" houseid="3597" entryx="4061" entryy="3630" entryz="7" rent="0" townid="18" size="147" />
+	<house name="Port Hope Center 01" houseid="3598" entryx="4051" entryy="3636" entryz="7" rent="0" townid="18" size="18" />
+	<house name="Port Hope Center 02" houseid="3599" entryx="4063" entryy="3641" entryz="7" rent="0" townid="18" size="53" />
+	<house name="Port Hope Center 03" houseid="3600" entryx="4076" entryy="3639" entryz="7" rent="0" townid="18" size="31" />
+	<house name="Port Hope Center 04" houseid="3601" entryx="4077" entryy="3648" entryz="7" rent="0" townid="18" size="114" />
+	<house name="Port Hope Center 05" houseid="3602" entryx="4066" entryy="3647" entryz="7" rent="0" townid="18" size="45" />
+	<house name="Port Hope Center 06" houseid="3603" entryx="4021" entryy="3650" entryz="7" rent="0" townid="18" size="10" />
+	<house name="Port Hope Center 07" houseid="3604" entryx="4013" entryy="3655" entryz="7" rent="0" townid="18" size="4" />
+	<house name="Port Hope Center 08" houseid="3605" entryx="4008" entryy="3655" entryz="7" rent="0" townid="18" size="4" />
+	<house name="Port Hope Center 09" houseid="3606" entryx="4005" entryy="3655" entryz="7" rent="0" townid="18" size="2" />
+	<house name="Port Hope Center 10" houseid="3607" entryx="4013" entryy="3656" entryz="7" rent="0" townid="18" size="2" />
+	<house name="Port Hope Center 11" houseid="3608" entryx="4009" entryy="3656" entryz="7" rent="0" townid="18" size="4" />
+	<house name="Port Hope Center 12" houseid="3609" entryx="4005" entryy="3656" entryz="7" rent="0" townid="18" size="4" />
+	<house name="Port Hope Center 13" houseid="3610" entryx="4016" entryy="3662" entryz="6" rent="0" townid="18" size="69" />
+	<house name="Port Hope Fortal 01" houseid="3611" entryx="4016" entryy="3635" entryz="6" rent="0" townid="18" size="13" />
+	<house name="Port Hope Fortal 02" houseid="3612" entryx="4011" entryy="3635" entryz="6" rent="0" townid="18" size="13" />
+	<house name="Port Hope Fortal 03" houseid="3613" entryx="4019" entryy="3639" entryz="6" rent="0" townid="18" size="15" />
+	<house name="Port Hope Fortal 04" houseid="3614" entryx="4019" entryy="3643" entryz="6" rent="0" townid="18" size="15" />
+	<house name="Port Hope Fortal 05" houseid="3615" entryx="4010" entryy="3647" entryz="6" rent="0" townid="18" size="21" />
+	<house name="Port Hope Fortal 06" houseid="3616" entryx="4024" entryy="3647" entryz="6" rent="0" townid="18" size="18" />
+	<house name="Port Hope Fortal 07" houseid="3617" entryx="4036" entryy="3653" entryz="6" rent="0" townid="18" size="16" />
+	<house name="Port Hope Fortal 08" houseid="3618" entryx="4040" entryy="3653" entryz="6" rent="0" townid="18" size="16" />
+	<house name="Port Hope Fortal 09" houseid="3619" entryx="4044" entryy="3653" entryz="6" rent="0" townid="18" size="17" />
+	<house name="Port Hope Fortal 10" houseid="3620" entryx="4036" entryy="3660" entryz="6" rent="0" townid="18" size="21" />
+	<house name="Port Hope Resident 01" houseid="3621" entryx="4012" entryy="3655" entryz="6" rent="0" townid="18" size="2" />
+	<house name="Port Hope Resident 02" houseid="3622" entryx="4009" entryy="3655" entryz="6" rent="0" townid="18" size="6" />
+	<house name="Port Hope Resident 03" houseid="3623" entryx="4008" entryy="3656" entryz="6" rent="0" townid="18" size="10" />
+	<house name="Port Hope Resident 04" houseid="3624" entryx="4009" entryy="3656" entryz="6" rent="0" townid="18" size="8" />
+	<house name="Port Hope Resident 05" houseid="3625" entryx="4012" entryy="3656" entryz="6" rent="0" townid="18" size="4" />
+	<house name="Port Hope Resident 06" houseid="3626" entryx="4010" entryy="3653" entryz="5" rent="0" townid="18" size="31" />
+	<house name="Port Hope Waterfall 01" houseid="3627" entryx="4017" entryy="3677" entryz="6" rent="0" townid="18" size="51" />
+	<house name="Port Hope Waterfall 02" houseid="3628" entryx="4029" entryy="3681" entryz="6" rent="0" townid="18" size="15" />
+	<house name="Port Hope Waterfall 03" houseid="3629" entryx="4030" entryy="3680" entryz="6" rent="0" townid="18" size="4" />
+	<house name="Port Hope Waterfall 04" houseid="3630" entryx="4030" entryy="3681" entryz="6" rent="0" townid="18" size="15" />
+	<house name="Port Hope Waterfall 05" houseid="3631" entryx="4027" entryy="3684" entryz="6" rent="0" townid="18" size="13" />
+	<house name="Port Hope Waterfall 06" houseid="3632" entryx="4032" entryy="3684" entryz="6" rent="0" townid="18" size="17" />
+	<house name="Port Hope Waterfall 07" houseid="3633" entryx="4041" entryy="3679" entryz="6" rent="0" townid="18" size="9" />
+	<house name="Port Hope Waterfall 08" houseid="3634" entryx="4045" entryy="3679" entryz="6" rent="0" townid="18" size="9" />
+	<house name="Port Hope Waterfall 09" houseid="3635" entryx="4049" entryy="3679" entryz="6" rent="0" townid="18" size="6" />
+	<house name="Port Hope Waterfall 10" houseid="3636" entryx="4042" entryy="3676" entryz="6" rent="0" townid="18" size="23" />
+	<house name="Port Hope Waterfall 11" houseid="3637" entryx="4049" entryy="3676" entryz="6" rent="0" townid="18" size="21" />
+	<house name="Port Hope Waterfall 12" houseid="3638" entryx="4053" entryy="3676" entryz="6" rent="0" townid="18" size="21" />
+	<house name="Port Hope South 01" houseid="3639" entryx="4080" entryy="3687" entryz="7" rent="0" townid="18" size="26" />
+	<house name="Port Hope Guildhouse 01" houseid="3640" entryx="4104" entryy="3691" entryz="7" rent="0" townid="18" size="299" />
+	<house name="Port Hope on Imbir 01" houseid="3641" entryx="4088" entryy="3678" entryz="7" rent="0" townid="18" size="18" />
+	<house name="Port Hope on Imbir 02" houseid="3642" entryx="4094" entryy="3671" entryz="7" rent="0" townid="18" size="7" />
+	<house name="Port Hope on Imbir 03" houseid="3643" entryx="4095" entryy="3670" entryz="7" rent="0" townid="18" size="23" />
+	<house name="Port Hope on Imbir 04" houseid="3644" entryx="4099" entryy="3670" entryz="7" rent="0" townid="18" size="27" />
+	<house name="Port Hope on Imbir 05" houseid="3645" entryx="4099" entryy="3671" entryz="7" rent="0" townid="18" size="16" />
+	<house name="Port Hope on Imbir 06" houseid="3646" entryx="4105" entryy="3678" entryz="7" rent="0" townid="18" size="12" />
+	<house name="Edron Northway 01" houseid="3647" entryx="3926" entryy="3763" entryz="7" rent="0" townid="21" size="36" />
+	<house name="Edron Northway 02" houseid="3648" entryx="3952" entryy="3751" entryz="7" rent="0" townid="21" size="21" />
+	<house name="Edron Northway 03" houseid="3649" entryx="3957" entryy="3751" entryz="7" rent="0" townid="21" size="14" />
+	<house name="Edron Northway 04" houseid="3650" entryx="3963" entryy="3753" entryz="7" rent="0" townid="21" size="14" />
+	<house name="Edron Northway 05" houseid="3651" entryx="3950" entryy="3772" entryz="6" rent="0" townid="21" size="13" />
+	<house name="Edron Northway 06" houseid="3652" entryx="3944" entryy="3765" entryz="6" rent="0" townid="21" size="14" />
+	<house name="Edron Northway 07" houseid="3653" entryx="3941" entryy="3757" entryz="6" rent="0" townid="21" size="16" />
+	<house name="Edron Northway 08" houseid="3654" entryx="3965" entryy="3769" entryz="6" rent="0" townid="21" size="21" />
+	<house name="Edron Northway 09" houseid="3655" entryx="3965" entryy="3764" entryz="6" rent="0" townid="21" size="25" />
+	<house name="Edron Guildhouse Northway" houseid="3656" entryx="3972" entryy="3758" entryz="7" rent="0" townid="21" size="157" />
+	<house name="Edron North 08" houseid="3657" entryx="3869" entryy="3799" entryz="7" rent="0" townid="21" size="32" />
+	<house name="Port South 01" houseid="3658" entryx="4033" entryy="3682" entryz="7" rent="0" townid="18" size="20" />
+	<house name="Port South 02" houseid="3659" entryx="4039" entryy="3679" entryz="7" rent="0" townid="18" size="6" />
+	<house name="Port South 03" houseid="3660" entryx="4044" entryy="3679" entryz="7" rent="0" townid="18" size="9" />
+	<house name="Port South 04" houseid="3661" entryx="4049" entryy="3679" entryz="7" rent="0" townid="18" size="9" />
+	<house name="Port South 05" houseid="3662" entryx="4042" entryy="3676" entryz="7" rent="0" townid="18" size="16" />
+	<house name="Port South 06" houseid="3663" entryx="4045" entryy="3676" entryz="7" rent="0" townid="18" size="15" />
+	<house name="Port South 07" houseid="3664" entryx="4048" entryy="3676" entryz="7" rent="0" townid="18" size="18" />
+	<house name="Port South 08" houseid="3665" entryx="4051" entryy="3676" entryz="7" rent="0" townid="18" size="18" />
+	<house name="Port South 09" houseid="3666" entryx="4054" entryy="3676" entryz="7" rent="0" townid="18" size="17" />
+	<house name="Ethno North 01" houseid="3667" entryx="4279" entryy="3882" entryz="7" rent="0" townid="19" size="96" />
+	<house name="Ethno North 02" houseid="3668" entryx="4279" entryy="3890" entryz="7" rent="0" townid="19" size="52" />
+	<house name="Ethno North 03" houseid="3669" entryx="4271" entryy="3886" entryz="7" rent="0" townid="19" size="49" />
+	<house name="Ethno North 04" houseid="3670" entryx="4262" entryy="3886" entryz="7" rent="0" townid="19" size="57" />
+	<house name="Ethno Center 01" houseid="3671" entryx="4276" entryy="3899" entryz="7" rent="0" townid="19" size="56" />
+	<house name="Ethno Center 02" houseid="3672" entryx="4280" entryy="3899" entryz="7" rent="0" townid="19" size="55" />
+	<house name="Ethno Center 03" houseid="3673" entryx="4275" entryy="3906" entryz="7" rent="0" townid="19" size="46" />
+	<house name="Ethno Center 04" houseid="3674" entryx="4280" entryy="3907" entryz="7" rent="0" townid="19" size="40" />
+	<house name="Ethno Center 05" houseid="3675" entryx="4278" entryy="3916" entryz="7" rent="0" townid="19" size="85" />
+	<house name="Ethno Center 06" houseid="3676" entryx="4275" entryy="3914" entryz="7" rent="0" townid="19" size="35" />
+	<house name="Ethno Center 07" houseid="3677" entryx="4275" entryy="3918" entryz="7" rent="0" townid="19" size="31" />
+	<house name="Ethno Center 08" houseid="3678" entryx="4264" entryy="3922" entryz="7" rent="0" townid="19" size="13" />
+	<house name="Ethno Center 09" houseid="3679" entryx="4261" entryy="3922" entryz="7" rent="0" townid="19" size="41" />
+	<house name="Ethno Center 10" houseid="3680" entryx="4252" entryy="3917" entryz="7" rent="0" townid="19" size="38" />
+	<house name="Ethno South 01" houseid="3681" entryx="4251" entryy="3924" entryz="7" rent="0" townid="19" size="21" />
+	<house name="Ethno South 02" houseid="3682" entryx="4265" entryy="3924" entryz="7" rent="0" townid="19" size="20" />
+	<house name="Ethno South 03" houseid="3683" entryx="4273" entryy="3924" entryz="7" rent="0" townid="19" size="19" />
+	<house name="Ethno South 04" houseid="3684" entryx="4280" entryy="3928" entryz="7" rent="0" townid="19" size="17" />
+	<house name="Ankrahmun Waterfall 01" houseid="3685" entryx="4536" entryy="3985" entryz="7" rent="0" townid="20" size="123" />
+	<house name="Ankrahmun Waterfall 02" houseid="3686" entryx="4554" entryy="3980" entryz="7" rent="0" townid="20" size="56" />
+	<house name="Ankrahmun Waterfall 03" houseid="3687" entryx="4561" entryy="3980" entryz="7" rent="0" townid="20" size="54" />
+	<house name="Ankrahmun Waterfall 04" houseid="3688" entryx="4579" entryy="3978" entryz="6" rent="0" townid="20" size="169" />
+	<house name="Ankrahmun Waterfall 05" houseid="3689" entryx="4575" entryy="4002" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun Waterfall 06" houseid="3690" entryx="4582" entryy="4002" entryz="7" rent="0" townid="20" size="21" />
+	<house name="Ankrahmun Waterfall 07" houseid="3691" entryx="4571" entryy="3991" entryz="7" rent="0" townid="20" size="36" />
+	<house name="Ankrahmun Waterfall 08" houseid="3692" entryx="4582" entryy="3987" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun Waterfall 09" houseid="3693" entryx="4551" entryy="4009" entryz="7" rent="0" townid="20" size="36" />
+	<house name="Ankrahmun Waterfall 10" houseid="3694" entryx="4563" entryy="4005" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun Waterfall 11" houseid="3695" entryx="4551" entryy="4017" entryz="7" rent="0" townid="20" size="64" />
+	<house name="Ankrahmun Waterfall 12" houseid="3696" entryx="4534" entryy="3991" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun Waterfall 13" houseid="3697" entryx="4541" entryy="3991" entryz="7" rent="0" townid="20" size="24" />
+	<house name="Ankrahmun Waterfall 14" houseid="3698" entryx="4529" entryy="4002" entryz="7" rent="0" townid="20" size="34" />
+	<house name="Ankrahmun Waterfall 15" houseid="3699" entryx="4542" entryy="4007" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun Mini 01" houseid="3700" entryx="4483" entryy="4003" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Mini 02" houseid="3701" entryx="4591" entryy="3974" entryz="7" rent="0" townid="20" size="7" />
+	<house name="Ankrahmun Mini 03" houseid="3702" entryx="4601" entryy="3974" entryz="7" rent="0" townid="20" size="7" />
+	<house name="Ankrahmun Mini 04" houseid="3703" entryx="4598" entryy="3981" entryz="7" rent="0" townid="20" size="16" />
+	<house name="Ankrahmun Mini 05" houseid="3704" entryx="4595" entryy="3961" entryz="7" rent="0" townid="20" size="23" />
+	<house name="Ankrahmun Mini 06" houseid="3705" entryx="4586" entryy="3959" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun Mini 07" houseid="3706" entryx="4581" entryy="3942" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Mini 08" houseid="3707" entryx="4538" entryy="3920" entryz="7" rent="0" townid="20" size="21" />
+	<house name="Ankrahmun Mini 09" houseid="3708" entryx="4521" entryy="3920" entryz="7" rent="0" townid="20" size="21" />
+	<house name="Ankrahmun Mini 10" houseid="3709" entryx="4508" entryy="3920" entryz="7" rent="0" townid="20" size="23" />
+	<house name="Ankrahmun Mini 11" houseid="3710" entryx="4498" entryy="3919" entryz="7" rent="0" townid="20" size="19" />
+	<house name="Ankrahmun Mini 12" houseid="3711" entryx="4478" entryy="3923" entryz="7" rent="0" townid="20" size="21" />
+	<house name="Ankrahmun Mini 13" houseid="3712" entryx="4435" entryy="3962" entryz="7" rent="0" townid="20" size="35" />
+	<house name="Ankrahmun Mini 14" houseid="3713" entryx="4434" entryy="3972" entryz="7" rent="0" townid="20" size="21" />
+	<house name="Ankrahmun Mini 15" houseid="3714" entryx="4434" entryy="3985" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Mini 16" houseid="3715" entryx="4461" entryy="3999" entryz="7" rent="0" townid="20" size="17" />
+	<house name="Ankrahmun greatfull 01" houseid="3716" entryx="4450" entryy="3969" entryz="7" rent="0" townid="20" size="107" />
+	<house name="Ankrahmun greatfull 02" houseid="3717" entryx="4570" entryy="3958" entryz="7" rent="0" townid="20" size="75" />
+	<house name="Ankrahmun Central 01" houseid="3718" entryx="4483" entryy="3932" entryz="7" rent="0" townid="20" size="16" />
+	<house name="Ankrahmun Central 02" houseid="3719" entryx="4493" entryy="3928" entryz="7" rent="0" townid="20" size="23" />
+	<house name="Ankrahmun Central 03" houseid="3720" entryx="4488" entryy="3941" entryz="7" rent="0" townid="20" size="18" />
+	<house name="Ankrahmun Central 04" houseid="3721" entryx="4493" entryy="3941" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Central 05" houseid="3722" entryx="4503" entryy="3929" entryz="7" rent="0" townid="20" size="30" />
+	<house name="Ankrahmun Central 06" houseid="3723" entryx="4519" entryy="3929" entryz="7" rent="0" townid="20" size="32" />
+	<house name="Ankrahmun Central 07" houseid="3724" entryx="4508" entryy="3941" entryz="7" rent="0" townid="20" size="32" />
+	<house name="Ankrahmun Central 08" houseid="3725" entryx="4515" entryy="3941" entryz="7" rent="0" townid="20" size="34" />
+	<house name="Ankrahmun Central 09" houseid="3726" entryx="4532" entryy="3941" entryz="7" rent="0" townid="20" size="31" />
+	<house name="Ankrahmun Central 10" houseid="3727" entryx="4526" entryy="3933" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Central 11" houseid="3728" entryx="4538" entryy="3933" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Central 12" houseid="3729" entryx="4547" entryy="3937" entryz="7" rent="0" townid="20" size="12" />
+	<house name="Ankrahmun Central 13" houseid="3730" entryx="4552" entryy="3937" entryz="7" rent="0" townid="20" size="12" />
+	<house name="Ankrahmun Central 14" houseid="3731" entryx="4543" entryy="3929" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Central 15" houseid="3732" entryx="4555" entryy="3929" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Central 16" houseid="3733" entryx="4562" entryy="3932" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Central 17" houseid="3734" entryx="4574" entryy="3932" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Ankrahmun Central 18" houseid="3735" entryx="4569" entryy="3940" entryz="7" rent="0" townid="20" size="28" />
+	<house name="Ankrahmun Central 19" houseid="3736" entryx="4543" entryy="3948" entryz="7" rent="0" townid="20" size="18" />
+	<house name="Ankrahmun Central 20" houseid="3737" entryx="4557" entryy="3948" entryz="7" rent="0" townid="20" size="16" />
+	<house name="Ankrahmun Central 21" houseid="3738" entryx="4551" entryy="3958" entryz="7" rent="0" townid="20" size="46" />
+	<house name="Ankrahmun West 01" houseid="3739" entryx="4477" entryy="3936" entryz="7" rent="0" townid="20" size="18" />
+	<house name="Ankrahmun West 02" houseid="3740" entryx="4463" entryy="3936" entryz="7" rent="0" townid="20" size="18" />
+	<house name="Ankrahmun West 03" houseid="3741" entryx="4467" entryy="3946" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun West 04" houseid="3742" entryx="4473" entryy="3946" entryz="7" rent="0" townid="20" size="26" />
+	<house name="Ankrahmun West 05" houseid="3743" entryx="4457" entryy="3941" entryz="7" rent="0" townid="20" size="30" />
+	<house name="Ankrahmun West 06" houseid="3744" entryx="4451" entryy="3950" entryz="7" rent="0" townid="20" size="32" />
+	<house name="Ankrahmun West 07" houseid="3745" entryx="4471" entryy="3953" entryz="7" rent="0" townid="20" size="51" />
+	<house name="Ankrahmun West 08" houseid="3746" entryx="4471" entryy="3968" entryz="7" rent="0" townid="20" size="42" />
+	<house name="Ankrahmun West 09" houseid="3747" entryx="4438" entryy="4007" entryz="7" rent="0" townid="20" size="18" />
+	<house name="Ankrahmun West 10" houseid="3748" entryx="4438" entryy="4002" entryz="7" rent="0" townid="20" size="21" />
+	<house name="Ankrahmun West 11" houseid="3749" entryx="4439" entryy="4000" entryz="7" rent="0" townid="20" size="30" />
+	<house name="Ankrahmun West 12" houseid="3750" entryx="4440" entryy="4002" entryz="7" rent="0" townid="20" size="18" />
+	<house name="Ankrahmun West 13" houseid="3751" entryx="4440" entryy="4007" entryz="7" rent="0" townid="20" size="14" />
+	<house name="Thais Surface 01" houseid="3752" entryx="4152" entryy="4162" entryz="7" rent="0" townid="1" size="72" />
+	<house name="Thais Bamboo 01" houseid="3753" entryx="4166" entryy="4159" entryz="7" rent="0" townid="1" size="30" />
+	<house name="Thais Bamboo 02" houseid="3754" entryx="4173" entryy="4152" entryz="7" rent="0" townid="1" size="15" />
+	<house name="Thais Bamboo 03" houseid="3755" entryx="4182" entryy="4152" entryz="7" rent="0" townid="1" size="24" />
+	<house name="Thais Bamboo 04" houseid="3756" entryx="4178" entryy="4160" entryz="7" rent="0" townid="1" size="30" />
+	<house name="Thais Bamboo 05" houseid="3757" entryx="4184" entryy="4157" entryz="7" rent="0" townid="1" size="35" />
+	<house name="Thais Bamboo 06" houseid="3758" entryx="4174" entryy="4162" entryz="7" rent="0" townid="1" size="25" />
+	<house name="Thais Bamboo 07" houseid="3759" entryx="4182" entryy="4162" entryz="7" rent="0" townid="1" size="25" />
+	<house name="Thais West Camp 01" houseid="3760" entryx="4026" entryy="4102" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Thais West Camp 02" houseid="3761" entryx="4030" entryy="4101" entryz="7" rent="0" townid="1" size="8" />
+	<house name="Thais West Camp 03" houseid="3762" entryx="4035" entryy="4107" entryz="7" rent="0" townid="1" size="31" />
+	<house name="Carlin Midlane 01" houseid="3763" entryx="3601" entryy="3645" entryz="7" rent="0" townid="24" size="4" />
+	<house name="Carlin Midlane 02" houseid="3764" entryx="3600" entryy="3645" entryz="7" rent="0" townid="24" size="4" />
+	<house name="Carlin Midlane 03" houseid="3765" entryx="3599" entryy="3641" entryz="7" rent="0" townid="24" size="6" />
+	<house name="Carlin Midlane 04" houseid="3766" entryx="3602" entryy="3642" entryz="7" rent="0" townid="24" size="6" />
+	<house name="Carlin Midlane 05" houseid="3767" entryx="3602" entryy="3639" entryz="7" rent="0" townid="24" size="6" />
+	<house name="Carlin Midlane 06" houseid="3768" entryx="3600" entryy="3639" entryz="7" rent="0" townid="24" size="8" />
+	<house name="Carlin Midlane 07" houseid="3769" entryx="3599" entryy="3642" entryz="6" rent="0" townid="24" size="6" />
+	<house name="Carlin Midlane 08" houseid="3770" entryx="3602" entryy="3642" entryz="6" rent="0" townid="24" size="8" />
+	<house name="Carlin Midlane 09" houseid="3771" entryx="3599" entryy="3642" entryz="6" rent="0" townid="24" size="6" />
+	<house name="Carlin Midlane 10" houseid="3772" entryx="3602" entryy="3642" entryz="6" rent="0" townid="24" size="6" />
+	<house name="Carlin Midlane 11" houseid="3773" entryx="3600" entryy="3639" entryz="6" rent="0" townid="24" size="8" />
+	<house name="Carlin Midlane 12" houseid="3774" entryx="3602" entryy="3639" entryz="6" rent="0" townid="24" size="6" />
+	<house name="Carlin Midlane 13" houseid="3775" entryx="3613" entryy="3641" entryz="6" rent="0" townid="24" size="7" />
+	<house name="Carlin Midlane 14" houseid="3776" entryx="3613" entryy="3641" entryz="6" rent="0" townid="24" size="7" />
+	<house name="Carlin Midlane 15" houseid="3777" entryx="3611" entryy="3641" entryz="6" rent="0" townid="24" size="7" />
+	<house name="Carlin Midlane 16" houseid="3778" entryx="3611" entryy="3641" entryz="6" rent="0" townid="24" size="7" />
+	<house name="Carlin Northway 01" houseid="3779" entryx="3641" entryy="3633" entryz="7" rent="0" townid="24" size="34" />
+	<house name="Carlin Northway 02" houseid="3780" entryx="3632" entryy="3631" entryz="7" rent="0" townid="24" size="41" />
+	<house name="Carlin Northway 03" houseid="3781" entryx="3622" entryy="3628" entryz="6" rent="0" townid="24" size="12" />
+	<house name="Carlin Northway 04" houseid="3782" entryx="3620" entryy="3626" entryz="6" rent="0" townid="24" size="11" />
+	<house name="Carlin Northway 05" houseid="3783" entryx="3609" entryy="3626" entryz="6" rent="0" townid="24" size="11" />
+	<house name="Carlin Northway 06" houseid="3784" entryx="3608" entryy="3626" entryz="6" rent="0" townid="24" size="16" />
+	<house name="Carlin Northway 07" houseid="3785" entryx="3608" entryy="3626" entryz="7" rent="0" townid="24" size="16" />
+	<house name="Carlin Dream 01" houseid="3786" entryx="3587" entryy="3627" entryz="7" rent="0" townid="24" size="16" />
+	<house name="Carlin Dream 02" houseid="3787" entryx="3579" entryy="3627" entryz="7" rent="0" townid="24" size="16" />
+	<house name="Carlin Dream 03" houseid="3788" entryx="3587" entryy="3626" entryz="7" rent="0" townid="24" size="21" />
+	<house name="Carlin Dream 04" houseid="3789" entryx="3578" entryy="3626" entryz="7" rent="0" townid="24" size="21" />
+	<house name="Carlin Dream 05" houseid="3790" entryx="3581" entryy="3622" entryz="6" rent="0" townid="24" size="26" />
+	<house name="Carlin Dream 06" houseid="3791" entryx="3581" entryy="3623" entryz="6" rent="0" townid="24" size="20" />
+	<house name="Carlin East 01" houseid="3792" entryx="3628" entryy="3653" entryz="7" rent="0" townid="24" size="11" />
+	<house name="Carlin East 02" houseid="3793" entryx="3627" entryy="3653" entryz="7" rent="0" townid="24" size="11" />
+	<house name="Carlin East 03" houseid="3794" entryx="3628" entryy="3653" entryz="7" rent="0" townid="24" size="2" />
+	<house name="Carlin East 04" houseid="3795" entryx="3627" entryy="3653" entryz="6" rent="0" townid="24" size="11" />
+	<house name="Carlin East 05" houseid="3796" entryx="3628" entryy="3653" entryz="6" rent="0" townid="24" size="11" />
+	<house name="Carlin East 06" houseid="3797" entryx="3628" entryy="3653" entryz="6" rent="0" townid="24" size="2" />
+	<house name="Carlin East 07" houseid="3798" entryx="3645" entryy="3655" entryz="7" rent="0" townid="24" size="48" />
+	<house name="Carlin East 08" houseid="3799" entryx="3648" entryy="3660" entryz="6" rent="0" townid="24" size="34" />
+	<house name="Carlin East 09" houseid="3800" entryx="3651" entryy="3657" entryz="7" rent="0" townid="24" size="87" />
+	<house name="Carlin East 10" houseid="3801" entryx="3632" entryy="3668" entryz="7" rent="0" townid="24" size="12" />
+	<house name="Carlin East 11" houseid="3802" entryx="3635" entryy="3668" entryz="7" rent="0" townid="24" size="12" />
+	<house name="Carlin Bonderland 01" houseid="3803" entryx="3597" entryy="3659" entryz="7" rent="0" townid="24" size="8" />
+	<house name="Carlin Bonderland 02" houseid="3804" entryx="3597" entryy="3665" entryz="7" rent="0" townid="24" size="8" />
+	<house name="Carlin Bonderland 03" houseid="3805" entryx="3597" entryy="3671" entryz="7" rent="0" townid="24" size="8" />
+	<house name="Carlin Central 01" houseid="3806" entryx="3554" entryy="3660" entryz="7" rent="0" townid="24" size="37" />
+	<house name="Carlin Central 02" houseid="3807" entryx="3559" entryy="3660" entryz="7" rent="0" townid="24" size="14" />
+	<house name="Carlin Central 03" houseid="3808" entryx="3562" entryy="3650" entryz="7" rent="0" townid="24" size="14" />
+	<house name="Carlin Central 04" houseid="3809" entryx="3566" entryy="3650" entryz="7" rent="0" townid="24" size="17" />
+	<house name="Carlin Central 05" houseid="3810" entryx="3563" entryy="3657" entryz="6" rent="0" townid="24" size="7" />
+	<house name="Carlin Central 06" houseid="3811" entryx="3563" entryy="3654" entryz="6" rent="0" townid="24" size="8" />
+	<house name="Carlin Central 07" houseid="3812" entryx="3563" entryy="3654" entryz="6" rent="0" townid="24" size="7" />
+	<house name="Carlin Central 08" houseid="3813" entryx="3563" entryy="3657" entryz="6" rent="0" townid="24" size="6" />
+	<house name="Carlin Templer 01" houseid="3814" entryx="3609" entryy="3654" entryz="6" rent="0" townid="24" size="21" />
+	<house name="Carlin Templer 02" houseid="3815" entryx="3609" entryy="3651" entryz="5" rent="0" townid="24" size="19" />
+	<house name="Carlin Templer 03" houseid="3816" entryx="3618" entryy="3658" entryz="6" rent="0" townid="24" size="20" />
+	<house name="Thais Lightbring 01" houseid="3817" entryx="4173" entryy="4114" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Thais Lightbring 02" houseid="3818" entryx="4178" entryy="4114" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Thais Lightbring 03" houseid="3819" entryx="4182" entryy="4114" entryz="6" rent="0" townid="1" size="24" />
+	<house name="Thais Lightbring 04" houseid="3820" entryx="4182" entryy="4114" entryz="6" rent="0" townid="1" size="24" />
+	<house name="Thais Lightbring 05" houseid="3822" entryx="4182" entryy="4107" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Thais Lightbring 06" houseid="3823" entryx="4178" entryy="4102" entryz="6" rent="0" townid="1" size="14" />
+	<house name="Thais Lightbring 07" houseid="3824" entryx="4173" entryy="4102" entryz="6" rent="0" townid="1" size="14" />
+	<house name="Thais Lightbring 08" houseid="3825" entryx="4173" entryy="4114" entryz="6" rent="0" townid="1" size="14" />
+	<house name="Carlin Guildhouse East 01" houseid="3827" entryx="3684" entryy="3621" entryz="7" rent="0" townid="24" size="176" />
+	<house name="Carlin Guildhouse North 01" houseid="3828" entryx="3549" entryy="3534" entryz="7" rent="0" townid="24" size="116" />
+	<house name="Carlin Rosebud 01" houseid="3829" entryx="3524" entryy="3557" entryz="7" rent="0" townid="24" size="15" />
+	<house name="Carlin Rosebud 02" houseid="3830" entryx="3515" entryy="3557" entryz="7" rent="0" townid="24" size="12" />
+	<house name="Carlin Rosebud 03" houseid="3831" entryx="3517" entryy="3560" entryz="7" rent="0" townid="24" size="12" />
+	<house name="Carlin Troll 01" houseid="3832" entryx="3536" entryy="3625" entryz="7" rent="0" townid="24" size="17" />
+	<house name="Carlin Troll 02" houseid="3833" entryx="3524" entryy="3626" entryz="7" rent="0" townid="24" size="24" />
+	<house name="Barraca 01" houseid="3834" entryx="4499" entryy="3580" entryz="7" rent="0" townid="23" size="14" />
+	<house name="Barraca 02" houseid="3835" entryx="4500" entryy="3573" entryz="7" rent="0" townid="23" size="16" />
+	<house name="Barraca 03" houseid="3836" entryx="4507" entryy="3567" entryz="7" rent="0" townid="23" size="11" />
+	<house name="Barraca 04" houseid="3837" entryx="4506" entryy="3561" entryz="7" rent="0" townid="23" size="6" />
+	<house name="Barraca 05" houseid="3838" entryx="4507" entryy="3555" entryz="7" rent="0" townid="23" size="12" />
+	<house name="Barraca 06" houseid="3839" entryx="4519" entryy="3564" entryz="7" rent="0" townid="23" size="11" />
+	<house name="Thais Center 04" houseid="3840" entryx="4123" entryy="4059" entryz="7" rent="0" townid="1" size="31" />
+	<house name="Thais Center 05" houseid="3842" entryx="4127" entryy="4054" entryz="6" rent="0" townid="1" size="31" />
+	<house name="Thais woodlane 01" houseid="3843" entryx="4186" entryy="4055" entryz="7" rent="0" townid="1" size="38" />
+	<house name="Thais woodlane 02" houseid="3844" entryx="4189" entryy="4055" entryz="7" rent="0" townid="1" size="39" />
+	<house name="Thais woodlane 03" houseid="3845" entryx="4186" entryy="4046" entryz="7" rent="0" townid="1" size="38" />
+	<house name="Thais woodlane 04" houseid="3846" entryx="4189" entryy="4046" entryz="7" rent="0" townid="1" size="39" />
+	<house name="Thais Gracehouse 01" houseid="3847" entryx="4208" entryy="4057" entryz="7" rent="0" townid="1" size="68" />
+	<house name="Thais Gracehouse 02" houseid="3848" entryx="4200" entryy="4045" entryz="7" rent="0" townid="1" size="50" />
+	<house name="Thais Gracehouse 03" houseid="3849" entryx="4191" entryy="4030" entryz="7" rent="0" townid="1" size="58" />
+	<house name="Thais North 09" houseid="3850" entryx="4199" entryy="4030" entryz="7" rent="0" townid="1" size="21" />
+	<house name="Thais North 10" houseid="3851" entryx="4167" entryy="4037" entryz="7" rent="0" townid="1" size="111" />
+</houses>
