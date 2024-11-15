@@ -9,7 +9,7 @@ local effects = {
 	{position = Position(4161, 4085, 7), text = 'Hunts', effect = CONST_ME_YELLOWENERGY},
     {position = Position(4154, 4088, 7), text = 'Boss Event', effect = CONST_ME_HOLYDAMAGE},
 	{position = Position(4137, 4066, 7), text = '[LOOT SELLER]', effect = CONST_ME_SOUND_YELLOW},
-	{position = Position(4169, 4085, 7), text = 'Teleports', effect = CONST_ME_ASSASSIN},
+	{position = Position(4169, 4085, 7), text = 'Treiners', effect = CONST_ME_ASSASSIN},
 	{position = Position(4161, 4082, 7), text = 'Dungeon', effect = CONST_ME_FERUMBRAS},
 	{position = Position(4165, 4083, 7), text = '[Present]', effect = CONST_ME_HEARTS},
 	{position = Position(4139, 4065, 7), text = '[+50% EXP BOOST]', effect = CONST_ME_HEARTS},

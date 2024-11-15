@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Prada Addon" script="Addon.lua" walkinterval="0" floorchange="0">
+   <health now="100" max="100"/>
+	<look type="1594" head="79" body="86" legs="12" feet="92" addons="1" />
+<parameters>
+	<parameter key="module_shop" value="1" />
+	</parameters>
+
+</npc> 

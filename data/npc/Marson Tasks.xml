@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Marson Tasks" script="Marson Tasks.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100" />
+	<look type="970" head="9" body="57" legs="79" feet="78" addons="0" mount="0"/>
+</npc>

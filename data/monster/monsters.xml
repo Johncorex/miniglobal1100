@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monsters>
+	<!-- Customs -->
+	<monster name="Training Monk" file="monsters/customs/training monk.xml"/>
+	
+	<!-- Asuras -->
+	<monster name="The Diamond Blossom" file="monsters/asuras/the_diamond_blossom.xml"/>
+	<monster name="The Flaming Orchid" file="monsters/asuras/the_flaming_orchid.xml"/>
+	<monster name="The Lily of Night" file="monsters/asuras/the_lily_of_night.xml"/>
+	<monster name="The Blazing Rose" file="monsters/asuras/the_blazing_rose.xml"/>
+	<monster name="Dawnfire Asura" file="monsters/asuras/dawnfire_asura.xml"/>
+	<monster name="Midnight Asura" file="monsters/asuras/midnight_asura.xml"/>
+	<monster name="Frost Flower Asura" file="monsters/asuras/frost_flower_asura.xml"/>
+	<monster name="True Dawnfire Asura" file="monsters/asuras/true_dawnfire_asura.xml"/>
+	<monster name="True Frost Flower Asura" file="monsters/asuras/true_frost_flower_asura.xml"/>
+	<monster name="True Midnight Asura" file="monsters/asuras/true_midnight_asura.xml"/>
+
+<!--Fey-->
+	<monster name="Arctic Faun" file="monsters/fey/arctic_faun.xml"/>
+	<monster name="Dryad" file="monsters/fey/dryad.xml"/>
+	<monster name="Kroazur" file="monsters/fey/kroazur.xml"/>
+	<monster name="Faun" file="monsters/fey/faun.xml"/>
+	<monster name="Dark Faun" file="monsters/fey/dark_faun.xml"/>
+	<monster name="Enfeebled Silencer" file="monsters/fey/enfeebled_silencer.xml"/>
+	<monster name="Weakened Frazzlemaw" file="monsters/fey/weakened_frazzlemaw.xml"/>
+	<monster name="Pixie" file="monsters/fey/pixie.xml"/>
+	<monster name="Pooka" file="monsters/fey/pooka.xml"/>
+	<monster name="Twisted Pooka" file="monsters/fey/twisted_pooka.xml"/>
+	<monster name="Nymph" file="monsters/fey/nymph.xml"/>
+	<monster name="Boogy" file="monsters/fey/boogy.xml"/>
+	<monster name="Swan Maiden" file="monsters/fey/swan_maiden.xml"/>	
+	
+	<!-- Fafnar Cultists -->
+	<monster name="Black Sphinx Acolyte" file="monsters/fafnar cultists/black sphinx acolyte.xml"/>
+	<monster name="Burning Gladiator" file="monsters/fafnar cultists/burning gladiator.xml"/>
+	<monster name="Priestess of the Wild Sun" file="monsters/fafnar cultists/priestess of the wild sun.xml"/>
+	
+	<!-- Anumas -->
+	<monster name="Crypt Warden" file="monsters/anumas/crypt warden.xml"/>
+	<monster name="Feral Sphinx" file="monsters/anumas/feral sphinx.xml"/>
+	<monster name="Gryphon" file="monsters/anumas/gryphon.xml"/>
+	<monster name="Lamassu" file="monsters/anumas/lamassu.xml"/>
+	<monster name="Manticore" file="monsters/anumas/manticore.xml"/>
+	<monster name="Sphinx" file="monsters/anumas/sphinx.xml"/>
+	
+	<!-- Otherworld -->
+	<monster name="Ogre Brute" file="monsters/otherworld/Ogre Brute.xml"/>
+	<monster name="Ogre Savage" file="monsters/otherworld/Ogre Savage.xml"/>
+	<monster name="Ogre Shaman" file="monsters/otherworld/Ogre Shaman.xml"/>
+	<monster name="Clomp" file="monsters/otherworld/Clomp.xml"/>
+	<monster name="Hellflayer" file="monsters/otherworld/Hellflayer.xml"/>
+	<monster name="Grimeleech" file="monsters/otherworld/Grimeleech.xml"/>
+	<monster name="Vexclaw" file="monsters/otherworld/Vexclaw.xml"/>
+	<monster name="Omnivora" file="monsters/otherworld/Omnivora.xml"/>
+	<monster name="Sacred Snake" file="monsters/otherworld/Sacred Snake.xml"/>
+	<monster name="Vicious Squire" file="monsters/otherworld/Vicious Squire.xml"/>
+	<monster name="Renegade Knight" file="monsters/otherworld/Renegade Knight.xml"/>
+	<monster name="Vile Grandmaster" file="monsters/otherworld/Vile Grandmaster.xml"/>
+	
+	
+	
+	
 	<monster name="a carved stone tile" file="monsters/a_carved_stone_tile.xml" />
 	<monster name="Abyssador" file="monsters/abyssador.xml" />
 	<monster name="Achad" file="monsters/achad.xml" />
