@@ -14,8 +14,8 @@
 	<!-- Bau brinde templo -->
 	<action actionid="3112" script="custom/brinde_templo_bau.lua"/>
 	<!-- Ao clicar nesse item o jogador ganha EXP -->
-	<action itemid="6541" script="custom/exp_event.lua"/>
-	<!-- Spring Into Life  -->
+	<!-- <action itemid="6541" script="custom/exp_event.lua"/>
+	 --><!-- Spring Into Life  -->
 	<action itemid="15501" script="custom/spring into life.lua" />
 	<action itemid="29090" script="custom/gift_modal.lua"/>
     <!-- CUSTOM SISTEMAS JOHNCORE -->
